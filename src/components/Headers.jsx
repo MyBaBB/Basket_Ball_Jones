@@ -51,13 +51,16 @@ const Headers = () => {
                 border-2 border-green-600 border-t-transparent 
                 bottom-[4.2px] left-[0px]   '>
          <div >
-             <span className='z-10 absolute left-[57px] top-[75px] bg-indigo-950 text-[7px]'>
-               Champ
-             </span>
-
-              <span className='z-10 absolute left-[57px] top-[92px] text-[9px]  text-white font-semibold'>
-               Jones
-              </span>
+            <div className='z-10 absolute left-[57px] top-[75px] bg-indigo-950 text-[7px]' >
+               <span >
+                 Champ
+               </span>
+            </div>
+            <div className='z-10 absolute left-[57px] top-[92px] text-[9px]  text-white font-semibold'>
+                <span >
+                 Jones
+                </span>
+            </div>
           <img src={Trophy} alt="Trophy" />
         </div>
     </div>
