@@ -54,7 +54,7 @@ Error generating stack: `+o.message+`
                 fixed w-[140px] h-[140px]            \r
                 text-[#fff]\r
                 border-2 border-green-600 border-t-transparent \r
-                bottom-[4.2px] left-0   `,children:R.jsxs("div",{children:[R.jsx("div",{className:"z-10 absolute left-[57px] top-[75px] bg-indigo-950 text-[7px]",children:R.jsx("span",{children:"Champ"})}),R.jsx("div",{className:"z-10 absolute left-[57px] top-[92px] text-[9px]  text-white font-semibold",children:R.jsx("span",{children:"Jones"})}),R.jsx("img",{src:jd,alt:"Trophy"})]})}),R.jsx("div",{className:` doodlebugBR z-10 \r
+                bottom-[4.2px] left-0`,children:R.jsxs("div",{children:[R.jsx("div",{className:"z-10 absolute left-[57px] top-[75px] bg-indigo-950 text-[7px]",children:R.jsx("span",{children:"Champ"})}),R.jsx("div",{className:"z-10 absolute left-[57px] top-[92px] text-[9px]  text-white font-semibold",children:R.jsx("span",{children:"Jones"})}),R.jsx("img",{src:jd,alt:"Trophy"})]})}),R.jsx("div",{className:` doodlebugBR z-10 \r
                  fixed bottom-[3.9px]\r
                  right-0\r
                  bg-black            \r
