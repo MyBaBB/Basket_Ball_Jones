@@ -8,7 +8,7 @@ const App = () => {
     <div className='wrapper  relative flex justify-center p-4'> 
     <a href="https://mybabb.com">
 
-    <img src={BasketBallJones} alt='BasketBallJones ' className='relative flex justify-center my-0 mx-auto full h-auto' />
+    <img src={BasketBallJones} alt='BasketBallJonesDemo ' className='relative flex justify-center my-0 mx-auto full h-auto' />
     </a> 
    </div>
     </div>
