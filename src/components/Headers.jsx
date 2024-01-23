@@ -49,7 +49,7 @@ const Headers = () => {
                 fixed w-[140px] h-[140px]            
                 text-[#fff]
                 border-2 border-green-600 border-t-transparent 
-                bottom-[4.2px] left-0   '>
+                bottom-[4.2px] left-0'>
          <div >
             <div className='z-10 absolute left-[57px] top-[75px] bg-indigo-950 text-[7px]' >
                <span >
